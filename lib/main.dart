@@ -104,7 +104,7 @@ class _seceneklerState extends State<secenekler> {
             ),
             const SizedBox(height: 15,),
             Container(
-              margin: EdgeInsets.symmetric(horizontal: 45),
+              margin: EdgeInsets.symmetric(horizontal: 50),
               child: Text(
                 yanitlar[0],
 
